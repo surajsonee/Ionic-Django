@@ -19,7 +19,7 @@ $ heroku ps:scale web=1
 
 - Login with the admin credentials into the API https://mydashboard.herokuapp.com/api/ and fill some data.
 - The dashboard runs at https://mydashboard.herokuapp.com
-- fork cfauso https://github.com/jcfausto
+- fork cfauso https://github.com/surajsonee
 
 
 
